@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "993570578692",
+    "project_id": "shortzz-f8409",
+    "storage_bucket": "shortzz-f8409.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:993570578692:android:d2958b67724d75bf3db051",
+        "android_client_info": {
+          "package_name": "com.foursquare.toptap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "993570578692-p579s8oll2if0o3k05969g5r911h5c17.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.foursquare.toptap",
+            "certificate_hash": "c1051155b35793309aae2aed8aa4e1e58d411f25"
+          }
+        },
+        {
+          "client_id": "993570578692-6p4lu8k4sttu1n1le05hj2kefel40imv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkqSEYNXf0OTufrel66kIFdU4phkInUL0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "993570578692-6p4lu8k4sttu1n1le05hj2kefel40imv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
